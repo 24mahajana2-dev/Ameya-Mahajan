@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ameya Prashant Mahajan
 
-🎓 CS/ECE Student & Aspiring Software Developer passionate about building robust systems — from web apps to embedded hardware.
+🎓 CS/ECE Student &  Software Developer passionate about building robust systems — from web apps to embedded hardware.
 
 📍 India • 🔭 Currently deepening DSA & competitive programming • ⚡ Fun fact: I've made servo motors dance with Python!
 
